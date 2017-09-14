@@ -1,4 +1,3 @@
-var playlist = {
-  'The Police': 'Every Breath You Take';
-  Van Halen: 'Panama';
-}
+ar playlist = {
+  'Foo Fighters': 'Everlong',
+  Prince: 'Purple Rain'
