@@ -1,3 +1,3 @@
 var playlist = {
-  'Foo Fighters': 'Everlong',
-  Prince: 'Purple Rain'
+  "The Police": "Every Breath You Take"
+}
